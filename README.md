@@ -1,11 +1,6 @@
 # spaceshapes
 
-This is a basic asteroids style game using p5
+Asteroids inspired game for getting familiar with p5 libraries.    
 
-1: Possible updates use frame independant movement
-
-2: I Should Clean up code
-
-3: Works as a proof of concept/learning tool 
-
-Can be played here: https://courtneyd2.github.io/spaceshapes/
+Can be played here:   
+https://courtneyd2.github.io/spaceshapes/
